@@ -1,0 +1,21 @@
+body {
+    background-image: url(/img/912465.jpg);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Tahoma;
+    border-radius: 4px;
+    box-shadow: 5px -5px 9px #a6a6a6,
+        -5px 5px 9px #ffffff;
+}
+
+input {
+    background-color: rgb(148, 148, 148);
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: inset 20px 20px 60px #999898,
+        inset -20px -20px 60px #000000cb;
+}
+
+.checkbox{
+    width: 60px;
+}
